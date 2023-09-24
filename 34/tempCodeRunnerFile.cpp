@@ -1,0 +1,1 @@
+cout << students[i] << endl;
